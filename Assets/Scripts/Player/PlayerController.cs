@@ -10,7 +10,6 @@ public class PlayerController : MonoBehaviour
     private float forwardInput;
     void Start()
     {
-        
     }
 
     
